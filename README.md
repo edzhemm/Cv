@@ -15,19 +15,17 @@
 
 ## Languages
 
-**English** Medium/Working level
+**English**  Medium/Working level
 
 ## Work experience
 
 **Technical assistant** at MadQux Pro, Varna
 
-**Beautician** Beauty Salon Charm, Devnya, Varna
+**Beautician** at Beauty Salon Charm, Devnya, Varna
 
 ## More about me (Questionnaire)
 
 Hello, my name is Edzhem.<br>
-
-
 I have a Bachelor in Information Technology from University of Economics - Varna, but no previous professional experience.<br>
 I have studied C++, Java, C#, JS, Php, SQL, but Python is the programming language I am most familiar with.<br>
 I also passed a Php Fundamentals course and recently started an intensive Python course.<br>
